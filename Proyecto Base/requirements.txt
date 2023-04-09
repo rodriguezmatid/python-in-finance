@@ -1,0 +1,12 @@
+pandas
+scipy
+numpy
+matplotlib
+arch-py
+statsmodels
+quantlib-python
+ipykernel
+yfinance
+ta-lib
+pyportfolioopt
+seaborn
